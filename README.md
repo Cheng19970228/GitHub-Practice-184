@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
+| Jiahui Cheng      | Section 001       | Cheng19970228       | <https://cheng19970228.github.io/jiahui/>   |
 
 
 <br>
