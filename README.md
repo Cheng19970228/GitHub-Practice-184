@@ -34,7 +34,7 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
+| Jiahui Cheng      | Section 001       | Cheng19970228        | <https://github.com/Cheng19970228/GitHub-Practice-184>|
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
 
 
